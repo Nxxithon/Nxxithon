@@ -1,3 +1,4 @@
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <h3 align="center">Hi My name is Oak, I am currently studying at university. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> 
 
 <h3 align="left">Connect with me:</h3>
