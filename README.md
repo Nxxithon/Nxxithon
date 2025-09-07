@@ -1,6 +1,8 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <h3 align="center">Hi My name is Oak, I am currently studying at university. </h3> 
 
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/netithonoak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="netithonoak" height="30" width="40" /></a>
