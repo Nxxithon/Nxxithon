@@ -1,5 +1,5 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<h3 align="center">Hi My name is Oak, I am currently studying at university. </h3> 
+<h3 align="center">Hi my name is Oak, I am currently studying at university. </h3> 
 
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
